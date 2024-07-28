@@ -360,6 +360,8 @@ Router: Yönlendirici
 
 **S**
 
+Sandbox: Yalıtılmış alan
+
 Sensor: Algılayıcı
 
 Service: Hizmet
