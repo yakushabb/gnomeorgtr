@@ -260,6 +260,8 @@ Lost: Yitmek
 
 Malformed: Kusurlu
 
+Median: Ortanca
+
 Message: İleti
 
 Mode: Kip
