@@ -378,6 +378,8 @@ Repeat: Yinele
 
 Revoke: Geçersiz kıl
 
+Ripple: Dalgacık
+
 Rotate: Döndür
 
 Route: Rota (“Path” çevirisiyle karışmasın diye “Yol” yeğlemiyoruz)
@@ -461,6 +463,8 @@ Verify: Doğrula
 ---
 
 **W**
+
+Wavelet: Wavelet (şimdilik İngilizce haliyle kullanıyoruz)
 
 Wi-Fi: Kablosuz bağlantı
 
